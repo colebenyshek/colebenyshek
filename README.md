@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to scientific data process or health sensing technology
 - 📫 How to reach me colebeny@gmail.com
 
-Visit linkedin.com/colebenyshek for more information
+Visit linkedin.com/colebenyshek for more information!
 
 <!---
 colebenyshek/colebenyshek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
