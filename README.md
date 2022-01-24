@@ -5,7 +5,6 @@
 - 📫 How to reach me colebeny@gmail.com
 
 I love learning and am always open to trying new projects!
-
 Visit linkedin.com/colebenyshek for more information!
 
 <!---
