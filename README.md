@@ -2,10 +2,9 @@
 - 👀 I’m interested in software integration for medical devices
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on projects related to web development, scientific data processing, or health sensing technology
-- 📫 How to reach me colebeny@gmail.com
+- 📫 How to reach me colebeny@gmail.com, linkedin.com/colebenyshek
 
 I love learning and am always open to trying new projects!
-Visit linkedin.com/colebenyshek for more information!
 
 <!---
 colebenyshek/colebenyshek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
