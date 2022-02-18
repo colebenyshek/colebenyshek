@@ -3,9 +3,9 @@
 - 📚 I'm a graduate from UCLA with an M.S. in Bioengineering (focus in Computer Science)
 - 👀 I’m interested in software integration for medical devices
 - 💞️ I’m looking to collaborate on projects related to web development, scientific data processing, or health sensing technology
-- 📫 How to reach me colebeny@gmail.com or linkedin.com/colebenyshek
+- 📫 How to reach me: colebeny@gmail.com or linkedin.com/colebenyshek
 
-This is a dump of my projects I complete outside of work! Just fun little snippets for my own practice/enjoyment.
+This is a dump of my projects I complete outside of work! Nothing major here, just fun little snippets for my own practice/enjoyment.
 
 <!---
 colebenyshek/colebenyshek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
