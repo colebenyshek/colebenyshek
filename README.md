@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @colebenyshek
-- 📝 I'm a Medical Device Engineer for Johnson & Johnson
+- 📝 I'm a Senior Solutions Engineer at Qualtrics
 - 📚 I'm a graduate from UCLA with an M.S. in Bioengineering (focus in Computer Science)
-- 👀 I’m interested in software integration for medical devices
+- 👀 I’m interested in cloud-native applications and AI tools
 - 💞️ I’m looking to collaborate on projects related to web development, scientific data processing, or health sensing technology
 - 📫 How to reach me: colebeny@gmail.com or linkedin.com/colebenyshek
 
