@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @colebenyshek
 - 📝 I'm a Senior Solutions Engineer at Qualtrics
 - 📚 I'm a graduate from UCLA with an M.S. in Bioengineering (focus in Computer Science)
-- 👀 I’m interested in cloud-native applications and AI tools
 - 📫 How to reach me: colebeny@gmail.com or linkedin.com/colebenyshek
 
 This is a dump of my projects I complete outside of work! Nothing major here, just fun little snippets for my own practice/enjoyment :)
